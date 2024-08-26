@@ -1,0 +1,57 @@
+.bg-cont {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  font-family: Roboto;
+}
+.nav-bar {
+  background-color: #3367d6;
+  display: flex;
+  padding: 8px;
+  width: 100%;
+  height: 60px;
+  align-items: center;
+}
+.app-logo {
+  height: 20px;
+}
+.searchbox-conatiner {
+  display: flex;
+  justify-content: center;
+}
+.search-icon-box {
+  background-color: #64748b;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 50px;
+  height: 36px;
+}
+.search-icon {
+  height: 14px;
+}
+.text-box {
+  background-color: #64748b;
+  height: 36px;
+}
+.not-nav-bar {
+  padding: 20px;
+}
+.history-card {
+  border-radius: 8px;
+  border-color: #64748b;
+}
+.no-history-card {
+  width: 100%;
+  height: 90vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.no-history-text {
+  color: #475569;
+}
+.the-list {
+  display: flex;
+  flex-direction: column;
+}

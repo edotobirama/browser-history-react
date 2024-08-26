@@ -1,0 +1,33 @@
+.list-item {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  height: 40px;
+  padding: 6px;
+}
+.time {
+  font-size: 12px;
+  width: 80px;
+}
+.content-container {
+  display: flex;
+  align-items: center;
+}
+.item-logo {
+  height: 26px;
+  width: 26px;
+}
+.heading {
+  color: #000000;
+  font-size: 12px;
+}
+.url {
+  color: #475569;
+  font-size: 12px;
+}
+.btn {
+  display: flex;
+  width: 40px;
+  align-items: center;
+}
